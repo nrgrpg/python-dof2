@@ -12,4 +12,4 @@ DOF2_RemoveFile(file) #Delete the file
 DOF2_CreateFile(file) #Create the file if it doesn't exists. 
 ```
 
-Forum Samp Topic: https://www.dummies.com/programming/python/how-to-delete-a-file-in-python/
+Forum Samp Topic: https://forum.sa-mp.com/showthread.php?t=678155
